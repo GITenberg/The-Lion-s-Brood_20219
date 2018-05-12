@@ -1,0 +1,29 @@
+_repo: The-Lion-s-Brood_20219
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Osborne, Duffield
+    birthdate: 1858
+    deathdate: 1917
+    gutenberg_agent_id: '9164'
+    url: http://www.gutenberg.org/2009/agents/9164
+    wikipedia: http://en.wikipedia.org/wiki/Duffield_Osborne
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Punic War, 2nd, 218-201 B.C. -- Fiction'
+- !lcsh 'Historical fiction'
+title: The Lion's Brood
+url: http://www.gutenberg.org/ebooks/20219
